@@ -19,6 +19,4 @@ Impact Type: Total commitment on system integrity + Total commitment on system c
 </ul>
 
 <h2>Exploit</h2>
-<ul>
-   <li>War FTP Daemon v1.65</li>
-</ul>
+War FTP Username Stack-Based Buffer-Overflow Vulnerability Multiple Targets: C language
