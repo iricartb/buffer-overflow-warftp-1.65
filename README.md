@@ -15,5 +15,5 @@ Impact Type: Total commitment on system integrity + Total commitment on system c
 
 <h2>Vulnerable software</h2>
 <ul>
-   <li>WarFTP Daemon v1.65</li>
+   <li>War FTP Daemon v1.65</li>
 </ul>
