@@ -13,7 +13,7 @@ Access Complexity: Low<br>
 Authentication: Not required to exploit<br>
 Impact Type: Total commitment on system integrity + Total commitment on system confidentiality + Total commitment on system availability
 
-<h2>Vulnerable software and versions</h2>
+<h2>Vulnerable software</h2>
 <ul>
    <li>WarFTP Daemon v1.65</li>
 </ul>
