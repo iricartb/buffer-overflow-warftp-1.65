@@ -1,4 +1,4 @@
-<img src="https://pplware.sapo.pt/wp-content/uploads/2016/02/ftp_05.jpg" />
+<img src="https://pplware.sapo.pt/wp-content/uploads/2016/02/ftp_05.jpg" width="100%" />
 
 <h1>CVE-2007-1567</h1>
 Type: Unavailable / Other<br>
